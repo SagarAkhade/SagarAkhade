@@ -1,5 +1,4 @@
-<img style="width: 100%; height: 14rem; " src="https://sf.ezoiccdn.com/ezoimgfmt/i0.wp.com/www.realpythonproject.com/wp-content/uploads/2021/02/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2&resize=850%2C550&ssl=1" alt="">
-
+<img style="width: 100%; height: 14rem; " src="https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Sagar Akhade</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
